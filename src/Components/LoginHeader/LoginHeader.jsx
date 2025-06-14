@@ -1,11 +1,11 @@
-import Logo from "../assets/logo.png"
+import Logo from "../../assets/logopequena.png"
 import "./LoginHeader.css"
 
 function LoginHeader() {
 
   return (
     <>
-      <section>
+      <section id="loginHeader">
         <img src={Logo} alt="" />
       </section>
     </>
