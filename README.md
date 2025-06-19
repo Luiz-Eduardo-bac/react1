@@ -1,12 +1,56 @@
-# React + Vite
+# 🧢 Drip Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Loja online moderna de streetwear digital. Aqui você encontra tênis estilosos, calças descoladas, bonés, headphones e camisas com aquele drip que você respeita 😎
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🧠 Sobre o Projeto
 
-## Expanding the ESLint configuration
+Este é meu primeiro projeto usando React com HTML, CSS e JavaScript.  
+A proposta é construir uma loja online completa — começando pela tela de login — para treinar habilidades em front-end e futuramente integrar com um backend funcional.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🎯 Funcionalidades
+
+- ✅ Tela de login com layout estilizado
+- 🚧 Página inicial da loja
+- 🚧 Catálogo de produtos
+- 🚧 Carrinho de compras
+- 🚧 Integração com backend
+- 🚧 Área do cliente
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- React
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+---
+
+## 🖼️ Tela Pronta
+
+![image](https://github.com/user-attachments/assets/e458b5cd-174d-4850-8e19-f1bc485aa94d)
+
+
+> *Você pode substituir o link acima por uma imagem ou GIF mostrando a tela de login. Se não tiver, pode deixar para adicionar depois.*
+
+---
+
+## 📦 Como rodar o projeto
+
+```bash
+# Clone este repositório
+git clone https://github.com/seu-usuario/drip-store.git
+
+# Acesse a pasta do projeto
+cd drip-store
+
+# Instale as dependências
+npm install
+
+# Inicie o servidor de desenvolvimento
+npm run dev
