@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+footer{
+    display: flex;
+    background-color: #1f1f1f;
+    padding: 40px 0; /* Ajuste conforme necessário */
+    font-family: "Inter", sans-serif;
+}
+
+#logo-text{
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 15px;
+    gap: 10px;
+    align-items: center;
+    /* background-color: blue; */
+}
+
+
+#digitalStore{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    width: 400px;
+    padding-left: 200px;
+    padding-bottom: 15px;
+}
+
+#digitalStore p{
+    text-align: justify;
+}
+
+#social-icons{
+    display: flex;
+    /* background-color: green; */
+    gap: 20px;
+    padding-top: 25px;
+}
+
+
+.informacao-cat{
+    margin-left: 200px;
+}
+
+.informacao-cat h2 {
+    padding-top: 50px;
+    color: white;
+    margin-bottom: 50px;
+    font-size: 18px;
+}
+
+.informacao-cat a{
+    color: white;
+    display: flex;
+    margin-bottom: 15px;
+    width: 135px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 400; 
+}
+
+.informacao-cat address{
+    color: white;
+    width: 231px;
+    height: 78px;
+}
+
+.informacao-cat p{
+    color: white;
+}
+
+#footer-bottom{
+    color: white;
+    font-family: "Inter", sans-serif;
+    background-color:#1f1f1f;
+    text-align: center;
+    height: 50px;
+    font-size: 13px;
+}
+
+#footer-bottom p{
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+#footer-bottom hr{
+    width: 80%;
+    margin: auto;
+    opacity: 30%;
+    color: rgb(98, 98, 98);
+}

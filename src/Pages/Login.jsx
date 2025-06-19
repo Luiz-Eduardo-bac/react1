@@ -1,5 +1,6 @@
 import LoginBody from "../Components/LoginBody/LoginBody"
 import LoginHeader from "../Components/LoginHeader/LoginHeader"
+import LoginFooter from "../Components/LoginFooter/LoginFooter"
 
 function Login() {
 
@@ -7,6 +8,7 @@ function Login() {
     <>
       <LoginHeader/>
       <LoginBody/>
+      <LoginFooter/>
     </>
   )
 }
